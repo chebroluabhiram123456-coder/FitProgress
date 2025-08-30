@@ -1,0 +1,8 @@
+Set up the project structure and initial UI components for the fitness app
+
+This commit initializes the project with a `.replit` configuration, a `.gitignore` file, and various UI components for the fitness tracking application. It includes setup for routing, navigation, and basic elements like buttons, cards, and forms, leveraging Radix UI and Tailwind CSS for a modern and responsive user interface.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 784c08f4-9e67-4b0b-879b-24b8c2c371c8
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/5784c26e-47c4-4dca-92c8-0f033573469e/784c08f4-9e67-4b0b-879b-24b8c2c371c8/gN31UfI
